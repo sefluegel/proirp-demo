@@ -1,2 +1,0 @@
-# proirp-demo
-PRO MVP
